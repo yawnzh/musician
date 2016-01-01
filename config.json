@@ -1,0 +1,8 @@
+{
+    "database":{
+        "host":"localhost",
+        "port":6379,
+        "db":0
+    },
+    "limit":0
+}
